@@ -1,4 +1,4 @@
-# Hailee portfolio webpage
+# Ashutosh's  portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
@@ -10,11 +10,4 @@ A portfolio web site completely made in html css and js from ground up.
 
 <br>
 
-### In dark mode
 
-![In dark mode](./preview/hailee-dark.png)
-
-### In light mode
-
-![In light mode](./preview/hailee-light.png)
-# my-portfolio
